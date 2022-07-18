@@ -31,14 +31,13 @@ The input parameters:
 ## Citation
 
 Please cite the following papers if it helps your research:
-
 ```
-@article{zhang2021fast,
-  author={Juyong Zhang and Yuxin Yao and Bailin Deng},
-  title={Fast and Robust Iterative Closest Point}, 
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1}}
+  @article{zhang2021fast,
+    author={Juyong Zhang and Yuxin Yao and Bailin Deng},
+    title={Fast and Robust Iterative Closest Point}, 
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+    year={2021},
+    volume={},
+    number={},
+    pages={1-1}}
 ```
