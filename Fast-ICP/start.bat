@@ -1,0 +1,1 @@
+FRICP.exe target.ply source.ply res/ 3
