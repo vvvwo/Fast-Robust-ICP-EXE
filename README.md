@@ -27,6 +27,7 @@ The input parameters:
 5: Our (Robust ICP point-to-plane)
 6: Sparse ICP
 7: Sparse ICP point-to-plane
+```
 
 ## Citation
 
